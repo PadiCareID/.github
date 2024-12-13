@@ -13,11 +13,18 @@ Our team consists of brilliant minds from different universities, each bringing 
   
 - ☁️ **Cloud Computing (CC)**:
   - Aldy Charlie Rizky (Universitas Pendidikan Indonesia) - [Active] 🌐
-  - **Evid Wijaya** (STMIK Kuwera) - [Active] 🌟
+  - Evid Wijaya (STMIK Kuwera) - [Active] 🌟
   
 - 🎨 **Mobile Development (MD)**:
   - Addinda Ayu Arsyah (UIN Syarif Hidayatullah Jakarta) - [Active] 📱
   - Aziz Rahmad Isnanto (Universitas Prasetiya Mulya) - [Active] 📲
+
+## Mockup App
+  ![Presentation Slide Product Capstone - Padi Care](https://github.com/user-attachments/assets/4903b882-34cf-4226-9bd0-c07fceeb2dc6)
+
+## Installation
+Our application is designed for Android devices. To use it, your device must run on Android OS Version 7.0 (Nougat) or newer. You can download the app (.apk) using the link provided below.
+[PadiCare App](https://drive.google.com/drive/folders/19QebCHVF2NMtDcbRbaypA8hE61ljkqyr?usp=sharing) 
 
 ## 📑 **Project Overview**:
 **PadiCare** is aimed at improving rice farming practices in Indonesia by addressing the challenges of plant health monitoring. Currently, rice farmers lose 30-40% of their annual yield due to plant diseases, but only 12% have access to advanced agricultural technology. We aim to bridge this gap using AI-powered image recognition for disease diagnosis. 🌾💡
